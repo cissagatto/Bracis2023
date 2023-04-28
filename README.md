@@ -5,16 +5,16 @@ Repository of the article "Community Detection Methods for Multi-Label Classific
 ## Concepts
 
 ### Partitions Simple Version
-<img src="https://github.com/cissagatto/Bracis2023/blob/main/Figures/partitions-concept.png" width="600">
+<img src="https://github.com/cissagatto/Bracis2023/blob/main/Figures/partitions-concept.png" width="200">
 
 ### Partitions Detailed Version
-<img src="https://github.com/cissagatto/Bracis2023/blob/main/Figures/partitions-concept-detailed.png" width="600">
+<img src="https://github.com/cissagatto/Bracis2023/blob/main/Figures/partitions-concept-detailed.png" width="200">
 
 ### Hybrid Partitions Flow
 <img src="https://github.com/cissagatto/Bracis2023/blob/main/Figures/HPML-C.png" width="600">
 
 ### Random Partitions Flow
-<img src="https://github.com/cissagatto/Bracis2023/blob/main/Figures/Random-Graph-Communities.png" width="600">
+<img src="https://github.com/cissagatto/Bracis2023/blob/main/Figures/Random-Graphs-Communities.png" width="200">
 
 ## Results
 
@@ -41,14 +41,14 @@ You can run this experiment in Conda Environment. The name is "AmbienteTeste". T
 #### Singularity
 You can also run this experiment in a singularity container. Download the recipes and follow this tutorial (in portuguese): https://prensa.li/@cissa.gatto/tutorial-como-criar-um-container-singularity-para-executar-scripts-r-com-java-e-rclone
 
-### Step-by-Step Procedures
+### Step-by-Step Procedure
 
 #### Step 1: Pre-processing
-- [Code](https://github.com/cissagatto/CrossValidationMultiLabel) to create the 10-Fold Cross Validation for each dataset.
+- Create the 10-Fold Cross Validation for each dataset. You can download our data here.
 
 #### Step 2: Modeling Label Correlation
-- [Code](https://github.com/cissagatto/MultiLabelSimilaritiesMeasures) to compute similarities measures
-- [Code](https://github.com/cissagatto/BuildDataFrameGraphMLC) to build graphs
+- [SimilaritiesMultiLabel.zip](https://github.com/cissagatto/Bracis2023/tree/main/Code/) to compute similarities measures
+- [GraphMultiLabel.zip](https://github.com/cissagatto/Bracis2023/tree/main/Code/): to build graphs
 
 #### Step 3: Applying Communities Detection Methods
 - [Code](https://github.com/cissagatto/Generate-Partitions-Communities) to generate partitions from communities
