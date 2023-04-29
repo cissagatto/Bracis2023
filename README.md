@@ -18,26 +18,32 @@ Repository of the paper "Community Detection Methods for Multi-Label Classificat
 
 ## RESULTS
 
-*[SimilarityMatrices]*(https://drive.google.com/drive/folders/1c7mH8C66oEH3Z3FhbfWN0wrgH5cD_k5P?usp=sharing)
-*[Label Graphs]*(https://drive.google.com/drive/folders/1qZTpVlyxCUD5YjEYY8Jway3jymRu_6hc?usp=sharing)
-*[Partitions]*(https://drive.google.com/drive/folders/1djINXsGzstBWGLtD3N4L8AT0YGgwyFK_?usp=sharing)
+[SimilarityMatrices](https://drive.google.com/drive/folders/1c7mH8C66oEH3Z3FhbfWN0wrgH5cD_k5P?usp=sharing)
+[Label Graphs](https://drive.google.com/drive/folders/1qZTpVlyxCUD5YjEYY8Jway3jymRu_6hc?usp=sharing)
+[Partitions](https://drive.google.com/drive/folders/1djINXsGzstBWGLtD3N4L8AT0YGgwyFK_?usp=sharing)
 
-*Performance*
+**Performance**
+
 [Download](https://drive.google.com/drive/folders/1goyeMk2fFNJFWwyeETeeiw6xHwmjH4ve?usp=sharing)
 
-*Win-Loss-Tie*
+**Win-Loss-Tie**
+
 [Download](https://drive.google.com/drive/folders/1sW3PgvywMkmolxxWFVB7JaO8qr12_uDB?usp=sharing)
 
-*Method-Pair-Comparison*
+**Method-Pair-Comparison**
+
 [Download](https://drive.google.com/drive/folders/1ImTaRPQPIjyjN2a0gisN3ewAP7uKNsCk?usp=sharing)
 
-*Statistical Tests*
+**Statistical Tests**
+
 [Download](https://drive.google.com/drive/folders/17sYG_t772k3xYzA_SZOdK97ccTIbnE4u?usp=sharing)
 
-*Community Detection Methods*
+**Community Detection Methods**
+
 [Download](https://drive.google.com/drive/folders/1lrgzd2Vu2rsSnvOSHr9dfwtv_QsM433c?usp=sharing)
 
-*Partitioning*
+**Partitioning**
+
 [Download](https://drive.google.com/drive/folders/18F6_DiGzZMlLnjkoK1uK0b5qAvcrdO99?usp=sharing)
 
 
