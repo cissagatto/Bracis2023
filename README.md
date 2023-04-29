@@ -56,11 +56,17 @@ You can run this experiment in a Conda Environment. The name of our conda enviro
 
 
 #### Singularity/AppTainer
-You can also run this experiment in a singularity container. We do not provide a singularity container for this experiment, but you can build one. 
+You can also run this experiment in a singularity container. We do not provide a singularity container for this experiment, but you can build one. [Here]() you can find a little tutorial about how to do that for our experiments. Using singularity is better than conda environments when you have to execute all the experiment in a tmp (scratch or dev/shm) folder. 
+
+Pay attention to this because sometimes using the conda environment directly from the */home* can destroy hard disks and harm all users. In some situations, copying your singularity container to the server's temp folder and running absolutely everything from there is the best solution for everyone. Talk to the administrator about this before trying to reproduce the experiments.
 
 
 ### SOURCE CODE
-Our code is completely modular because of our servers - mainly job queue, time, and memory. In this way, we can run many jobs in parallel in different steps of the methodology. In the future, a package that executes all the flow will be developed and available for the scientific community.
+Our code is completely modular because of our servers - mainly job queue, time, and memory. In this way, we can run many jobs in parallel in different steps of the methodology. In the future, a package that executes all the flow will be developed and available for the scientific community. 
+
+In each source code, you will find instructions about how to run the code. You also can make adjustments in the main script to save the results in your machine or in your cloud using rclone (there are some examples in the R scripts).
+
+Attention: before using rclone, check with your institution's network administrator if it is possible to upload files and folders from the cluster to the cloud. In case of using google accounts for universities, you need to follow specific steps to configure communication between google cloud and server.
 
 *Step 1: Pre-processing*
 - [Code]() to create the 10-Fold Cross Validation for each dataset. You can download our data splits [here](https://drive.google.com/drive/folders/16t1rRptgULrM20IFItC_HlPJrmFZbIzH?usp=sharing). 
