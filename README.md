@@ -18,33 +18,35 @@ Repository of the paper "Community Detection Methods for Multi-Label Classificat
 
 ## RESULTS
 
-[SimilarityMatrices](https://drive.google.com/drive/folders/1c7mH8C66oEH3Z3FhbfWN0wrgH5cD_k5P?usp=sharing)
-[Label Graphs](https://drive.google.com/drive/folders/1qZTpVlyxCUD5YjEYY8Jway3jymRu_6hc?usp=sharing)
-[Partitions](https://drive.google.com/drive/folders/1djINXsGzstBWGLtD3N4L8AT0YGgwyFK_?usp=sharing)
 
-**Performance**
 
-[Download](https://drive.google.com/drive/folders/1goyeMk2fFNJFWwyeETeeiw6xHwmjH4ve?usp=sharing)
+### Resulting Files
 
-**Win-Loss-Tie**
+Here you can download the generated similarity matrices, label graphs, and partitions for our experiments. If you want to generate these for your experiments since the beginning, then please check the source code section.
 
-[Download](https://drive.google.com/drive/folders/1sW3PgvywMkmolxxWFVB7JaO8qr12_uDB?usp=sharing)
+- [SimilarityMatrices](https://drive.google.com/drive/folders/1c7mH8C66oEH3Z3FhbfWN0wrgH5cD_k5P?usp=sharing)
 
-**Method-Pair-Comparison**
+- [Label Graphs](https://drive.google.com/drive/folders/1qZTpVlyxCUD5YjEYY8Jway3jymRu_6hc?usp=sharing)
 
-[Download](https://drive.google.com/drive/folders/1ImTaRPQPIjyjN2a0gisN3ewAP7uKNsCk?usp=sharing)
+- [Partitions](https://drive.google.com/drive/folders/1djINXsGzstBWGLtD3N4L8AT0YGgwyFK_?usp=sharing)
 
-**Statistical Tests**
 
-[Download](https://drive.google.com/drive/folders/17sYG_t772k3xYzA_SZOdK97ccTIbnE4u?usp=sharing)
 
-**Community Detection Methods**
+### Analysis
 
-[Download](https://drive.google.com/drive/folders/1lrgzd2Vu2rsSnvOSHr9dfwtv_QsM433c?usp=sharing)
+Here you will find all the documents (tables, plots, etc.) with analysis of the results.
 
-**Partitioning**
+- [Performance](https://drive.google.com/drive/folders/1goyeMk2fFNJFWwyeETeeiw6xHwmjH4ve?usp=sharing)
 
-[Download](https://drive.google.com/drive/folders/18F6_DiGzZMlLnjkoK1uK0b5qAvcrdO99?usp=sharing)
+- [Win-Loss-Tie](https://drive.google.com/drive/folders/1sW3PgvywMkmolxxWFVB7JaO8qr12_uDB?usp=sharing)
+
+- [Method-Pair-Comparison](https://drive.google.com/drive/folders/1ImTaRPQPIjyjN2a0gisN3ewAP7uKNsCk?usp=sharing)
+
+- [Statistical Tests](https://drive.google.com/drive/folders/17sYG_t772k3xYzA_SZOdK97ccTIbnE4u?usp=sharing)
+
+- [Community Detection Methods](https://drive.google.com/drive/folders/1lrgzd2Vu2rsSnvOSHr9dfwtv_QsM433c?usp=sharing)
+
+- [Partitioning](https://drive.google.com/drive/folders/18F6_DiGzZMlLnjkoK1uK0b5qAvcrdO99?usp=sharing)
 
 
 ## INSTRUCTIONS TO REPRODUCE THE EXPERIMENTS
