@@ -78,7 +78,7 @@ Attention: before using rclone, check with your institution's network administra
 - [GraphMultiLabel](https://drive.google.com/file/d/1C9WLZtoYuk6RW1397iwPH9p2ytOVQSme/view?usp=sharing) to build the label co-occurrence graphs.
 
 *Step 3: Applying Communities Detection Methods*
-- [GeneratePartitionsCommunities]() to generate partitions from the communities.
+- [GeneratePartitionsCommunities](https://drive.google.com/file/d/1vy-bwvPUzzzuJKr6ExC214gTXM06JLwN/view?usp=sharing) to generate partitions from the communities.
 
 *Steps 4, 5 and 6: Build, validate, chose and test hybrid partitions*
 - [Code]() for Sparsification with KNN + Hierarchical Methods 
@@ -87,7 +87,7 @@ Attention: before using rclone, check with your institution's network administra
 - [Code]() for Sparsification with Threshold + Non Hierarchical Methods
 
 *Code for Global, Local and Random Partitions*
-- [Global]()
+- [Global](https://drive.google.com/file/d/13h6yc0rR4vFV-DFs0Ya_GNl9COflb4Ca/view?usp=sharing)
 - [Local]()
 - [Generate Random Graphs]()
 - [Test Random Graph + Hierarchical Methods]()
