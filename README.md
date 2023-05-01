@@ -81,17 +81,17 @@ Attention: before using rclone, check with your institution's network administra
 - [GeneratePartitionsCommunities](https://drive.google.com/file/d/1vy-bwvPUzzzuJKr6ExC214gTXM06JLwN/view?usp=sharing) to generate partitions from the communities.
 
 *Steps 4, 5 and 6: Build, validate, chose and test hybrid partitions*
-- [Code]() for Sparsification with KNN + Hierarchical Methods 
-- [Code]() for Sparsification with KNN + Non Hierarchical Methods
-- [Code]() for Sparsification with Threshold + Hierarchical Methods
-- [Code]() for Sparsification with Threshold + Non Hierarchical Methods
+- [Code](https://drive.google.com/file/d/1CM3M6Vzx-15sm57XraP2iGgiwbeE0d9c/view?usp=sharing) for Sparsification with KNN + Hierarchical Methods 
+- [Code](https://drive.google.com/file/d/1WAZrO-W5zgl468ABx4jBojNtN6Mzi261/view?usp=sharing) for Sparsification with KNN + Non Hierarchical Methods
+- [Code](https://drive.google.com/file/d/1JIeSaHvP8ank8jxB26W5GjWuQ8UvcIbL/view?usp=sharing) for Sparsification with Threshold + Hierarchical Methods
+- [Code](https://drive.google.com/file/d/1_jy0TFwiXDIDN5zYt3O_iMmiNZrwzz0D/view?usp=sharing) for Sparsification with Threshold + Non Hierarchical Methods
 
 *Code for Global, Local and Random Partitions*
-- [Global](https://drive.google.com/file/d/13h6yc0rR4vFV-DFs0Ya_GNl9COflb4Ca/view?usp=sharing)
-- [Local]()
-- [Generate Random Graphs]()
+- [Global](https://drive.google.com/file/d/1OBduU4kYpnJJE-9rboAj9EtSYOLJg6Ff/view?usp=share_link)
+- [Local](https://drive.google.com/file/d/1bS0EBFVttGW-JzNEUz1T9QZIyAMAIb9k/view?usp=sharing)
+- [Generate Random Graphs](https://drive.google.com/file/d/1QqApM73rkJu9GX0fJNZFonyBEdvjKKqK/view?usp=sharing)
 - [Test Random Graph + Hierarchical Methods]()
-- [Test Random Graph + Non Hierarchical Methods]()
+- [Test Random Graph + Non Hierarchical Methods](https://drive.google.com/file/d/1gWNnFXIXhjlVfVH6LaGoSIROTrX8Btlu/view?usp=sharing)
 
 
 ## Acknowledgment
