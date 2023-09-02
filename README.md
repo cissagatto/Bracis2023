@@ -89,13 +89,14 @@ Attention: before using rclone, check with your institution's network administra
 *Code for Global, Local, and Random Partitions*
 - [Global](https://github.com/cissagatto/Global-Partitions)
 - [Local](https://github.com/cissagatto/Local-Partitions)
-- [Generate Random Graphs](https://drive.google.com/file/d/1QqApM73rkJu9GX0fJNZFonyBEdvjKKqK/view?usp=sharing) - [Github](https://github.com/cissagatto/Generate-Random-Communities)
+- [Generate Random Graphs](https://github.com/cissagatto/Generate-Random-Communities)
 - [Test Random Graph + Hierarchical Methods](https://github.com/cissagatto/TCP-Random-H-Clus)
 - [Test Random Graph + Non Hierarchical Methods](https://github.com/cissagatto/TCP-Random-NH-Clus)
 
 
 ## Acknowledgment
-This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001. The authors also thank the Brazilian research agencies FAPESP and CNPq for financial support.
-
+- This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
+- This study was financed in part by the Conselho Nacional de Desenvolvimento Científico e Tecnológico - Brasil (CNPQ) - Process number 200371/2022-3.
+- The authors also thank the Brazilian research agencies FAPESP financial support.
 
 # Thanks
