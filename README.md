@@ -1,6 +1,10 @@
 # BRACIS 2023
-
 Repository of the paper "Community Detection Methods for Multi-Label Classification" published in BRACIS 2023.
+
+## Paper
+
+## Abstract
+Exploring label correlations is one of the main challenges in multi-label classification. The literature shows that prediction performances can be improved when classifiers learn these correlations. On the other hand, some works also argue that the multi-label classification methods cannot explore label correlations. The traditional multi-label local approach uses only information from individual labels, which makes it impractical to find relationships between them. In contrast, the multi-label global approach uses information from all labels simultaneously and may miss more specific relationships that are relevant. To overcome these limitations and verify if improving the prediction performances of multi-label classifiers is possible, we propose using Community Detection Methods to model label correlations and partition the label space into partitions between the local and global ones. These partitions, here named hybrid partitions, are formed of disjoint clusters of correlated labels, which are then used to build multi-label datasets and train multi-label classifiers. Since our proposal can generate several hybrid partitions, we validate all of them and choose the one that is considered the best. We compared our hybrid partitions with the local and global approaches and an approach that generates random partitions. Although our proposal improved the predictive performance of the used classifier in some datasets compared with other partitions, it also showed that, in general, independent of the approach used, the classifier still has difficulties learning several labels and predicting them correctly.
 
 ## CONCEPTS
 
@@ -18,8 +22,6 @@ Repository of the paper "Community Detection Methods for Multi-Label Classificat
 
 ## RESULTS
 
-
-
 ### Resulting Files
 
 Here you can download the generated similarity matrices, label graphs, and partitions for our experiments. If you want to generate these for your experiments from the beginning, please check the source code section.
@@ -29,7 +31,6 @@ Here you can download the generated similarity matrices, label graphs, and parti
 - [Label Graphs](https://drive.google.com/drive/folders/1qZTpVlyxCUD5YjEYY8Jway3jymRu_6hc?usp=sharing)
 
 - [Partitions](https://drive.google.com/drive/folders/1djINXsGzstBWGLtD3N4L8AT0YGgwyFK_?usp=sharing)
-
 
 
 ### Analysis
@@ -98,5 +99,8 @@ Attention: before using rclone, check with your institution's network administra
 - This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001.
 - This study was financed in part by the Conselho Nacional de Desenvolvimento Científico e Tecnológico - Brasil (CNPQ) - Process number 200371/2022-3.
 - The authors also thank the Brazilian research agencies FAPESP financial support.
+
+# Contact
+elainececiliagatto@gmail.com
 
 # Thanks
